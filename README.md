@@ -3,8 +3,9 @@
 
 ### 🌟 Skills  
 - Manual Testing  
-- Automation Testing (Selenium)  
-- API Testing (Postman)  
+- Automation Testing (Playwright)  
+- API Testing (Postman)
+- Performance Testing
 - Bug Reporting & Test Case Design  
 
-📧 Feel free to connect with me: lahiru.email@example.com
+📧 Feel free to connect with me: lahiruwijesooriya99@gmail.com
